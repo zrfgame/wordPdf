@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <properties>
        <poi.version>3.14</poi.version>
-       <itext.version>5.5.12</itext.version>
+       <itext.version>5.5.13.3</itext.version>
     </properties>
     <repositories>
         <repository>
